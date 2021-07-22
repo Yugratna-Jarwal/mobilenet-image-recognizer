@@ -1,0 +1,62 @@
+body{
+font-family: 'Viaoda Libre', cursive;
+background:powderblue;
+}
+.header{
+    background: darkviolet;
+    color: ghostwhite;
+}
+.header img
+{
+    width: 100px;
+}
+.header1{
+    background:powderblue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid dodgerblue;
+}
+.header1 label{
+    background:powderblue;
+    padding: 10px;
+    margin-bottom: 0px;
+    width: 310px;
+    box-shadow: 5px 5px 18px dimgray;
+}
+#camera ,#result{
+    border: 3px solid dodgerblue;
+    width: 310px;
+    height:300px;
+    box-shadow: 5px 5px 18px dimgray;
+}
+.header1 button{
+    width: 310px;
+    box-shadow: 5px 5px 18px dimgray;
+    font-size: 16px;
+    border: 1px solid;
+}
+.footer
+{
+    margin-bottom: 50px;
+}
+.footer h4{
+    background: ghostwhite;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px dimgray;
+}
+.footer img
+{
+    width: 70px;
+}
+.footer1{
+    position: fixed;
+    color: blue;
+    background-color: magenta;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
